@@ -1,2 +1,2 @@
-# arraia_pay
-(Protótipo) Sistema de pagamento de festas ArraiaPay
+# ArraiaPay-G1
+QRCODE e Cartão- Arthur H, Cho, Bruno e Kalel
